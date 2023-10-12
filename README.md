@@ -54,10 +54,10 @@ compatibility. In addition, I am a quick learner and self-starter.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=anas110440&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anas110440&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas110440&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ahmed-coding&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-coding&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-coding&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=anas110440&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ahmed-coding&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
