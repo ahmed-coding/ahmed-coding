@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ahmed-coding/ahmed-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,6 +38,7 @@ My passion for coding and my ability to adapt quickly to new technologies and ch
 
 ![Html 5](https://img.shields.io/badge/HTML5-%23e34c26.svg?logo=Html5&logoColor=white)
 ![Css 3](https://img.shields.io/badge/Css3-%23264de4.svg?logo=Css3&logoColor=white)
+![C++ Developer](https://img.shields.io/badge/C%2B%2B%20Developer-%230056D2)
 [![C#](https://img.shields.io/badge/C%23-%230178C4.svg?logo=C%20Sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/Java-%23FF5733.svg?logo=Java&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org/)
