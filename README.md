@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hola 👋,<br/> I'm Ahmed Hamzah</h1>
+<h1 align="center">Hi there 👋<br/> I'm Ahmed Hamzah</h1>
 <h3 align="center">Hi, I’m Ahmed, a Programmer and a Full Stack Web Developer who loves building creative and amazing websites.
 </h3>
 
@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-As a Front End Developer with over 2 years of experience, I have a strong background in creating userfriendly
-and visually appealing websites and applications. I have experience in collaborating with
-designers and back-end developers to create responsive designs and ensure cross-browser
-compatibility. In addition, I am a quick learner and self-starter.
+As a seasoned Back-End Developer with two years of dedicated experience, I specialize in creating robust, efficient, and scalable web applications using the power of Django Rest Framework. My expertise lies in architecting and developing the server-side components of web applications, ensuring they are secure, performant, and well-structured.
+
+Having a profound understanding of back-end technologies, I collaborate seamlessly with Front-End Developers to transform design concepts into fully functional web applications. My experience extends beyond the server-side, making me a versatile Full Stack Developer capable of tackling a wide range of tasks from database design and API development to user interfaces and responsive design.
+
+My passion for coding and my ability to adapt quickly to new technologies and challenges make me a self-driven and agile developer. I'm committed to delivering high-quality, user-friendly applications that not only meet technical requirements but also deliver exceptional user experiences. With a focus on detail, reliability, and security, I'm well-prepared to contribute to the success of your projects and to tackle the complexities of modern web development.
 
 ## 🌐 Socials:
 
@@ -40,6 +41,7 @@ compatibility. In addition, I am a quick learner and self-starter.
 ![Html 5](https://img.shields.io/badge/HTML5-%23e34c26.svg?logo=Html5&logoColor=white)
 ![Css 3](https://img.shields.io/badge/Css3-%23264de4.svg?logo=Css3&logoColor=white)
 [![C#](https://img.shields.io/badge/C%23-%230178C4.svg?logo=C%20Sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/Java-%23FF5733.svg?logo=Java&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-%23092e20.svg?logo=Django&logoColor=white)](https:wwwdjangoprojectcom/)
 [![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-%23092e20.svg?logo=Django&logoColor=white)](https://www.django-rest-framework.org/)
