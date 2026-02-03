@@ -40,7 +40,6 @@ I am passionate about **problem-solving, multi-project management**, and buildin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-coding) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/ahmed-coding) 
 [![Telegram](https://img.shields.io/badge/Telegram-%230081C9.svg?logo=telegram&logoColor=white)](https://t.me/ahmed_hamza123) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2301D94F.svg?logo=whatsapp&logoColor=white)](https://wa.me/967770948670)
 
 ---
 
@@ -99,5 +98,9 @@ I am passionate about **problem-solving, multi-project management**, and buildin
 ## 📝 Contact Me
 
 - 📧 ahmed.128hemzh@gmail.com  
-- 📞 +967783772110  
 - 🌍 Sana’a, Yemen
+
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=ahmed-coding&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
