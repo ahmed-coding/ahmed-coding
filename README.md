@@ -14,51 +14,90 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋<br/> I'm Ahmed Hamzah</h1>
-<h3 align="center">Hi, I’m Ahmed, a Programmer and a Full Stack Web Developer who loves building creative and amazing websites.
-</h3>
+<h3 align="center">Backend & Django Developer | AI-Integrated Backends | Trading Systems Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas110440&label=Profile%20views&color=0e75b6&style=flat" alt="anas110440" />
-
-<!-- [![](https://visitcount.itsvg.in/api?id=anas110440&icon=4&color=0)](https://visitcount.itsvg.in) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmed-coding&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-# 💫 About Me:
+# 💫 About Me
 
-As a seasoned Back-End Developer with two years of dedicated experience, I specialize in creating robust, efficient, and scalable web applications using the power of Django Rest Framework. My expertise lies in architecting and developing the server-side components of web applications, ensuring they are secure, performant, and well-structured.
+I am a **Backend Developer with 3+ years of experience**, specializing in **Python, Django, and RESTful APIs**. I design **scalable, secure, and efficient backend systems** and have experience in **AI/ML-integrated platforms and automated trading systems**.  
 
-Having a profound understanding of back-end technologies, I collaborate seamlessly with Front-End Developers to transform design concepts into fully functional web applications. My experience extends beyond the server-side, making me a versatile Full Stack Developer capable of tackling a wide range of tasks from database design and API development to user interfaces and responsive design.
+I excel at turning complex requirements into maintainable, production-ready solutions while collaborating with front-end teams to deliver seamless web and mobile applications. My focus areas include:
 
-My passion for coding and my ability to adapt quickly to new technologies and challenges make me a self-driven and agile developer. I'm committed to delivering high-quality, user-friendly applications that not only meet technical requirements but also deliver exceptional user experiences. With a focus on detail, reliability, and security, I'm well-prepared to contribute to the success of your projects and to tackle the complexities of modern web development.
+- Backend architecture, REST APIs, and database optimization  
+- Authentication & authorization (JWT, RBAC)  
+- AI/ML integration and data-driven platforms  
+- Clean code, modular design, and performance optimization  
 
-## 🌐 Socials:
+I am passionate about **problem-solving, multi-project management**, and building **high-quality applications** that provide exceptional user experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/ahmed-coding) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18489595/ahmed-coding) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ahmed_m_coding)
+---
 
-# 💻 Tech Stack:
+## 🌐 Socials
 
-![Html 5](https://img.shields.io/badge/HTML5-%23e34c26.svg?logo=Html5&logoColor=white)
-![Css 3](https://img.shields.io/badge/Css3-%23264de4.svg?logo=Css3&logoColor=white)
-![C++ Developer](https://img.shields.io/badge/C%2B%2B%20Developer-%230056D2)
-[![C#](https://img.shields.io/badge/C%23-%230178C4.svg?logo=C%20Sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/Java-%23FF5733.svg?logo=Java&logoColor=white)](https://www.oracle.com/java/)
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-%23092e20.svg?logo=Django&logoColor=white)](https:wwwdjangoprojectcom/)
-[![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-%23092e20.svg?logo=Django&logoColor=white)](https://www.django-rest-framework.org/)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=PHP&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=Laravel&logoColor=white)](https://laravel.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/)
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=Docker&logoColor=white)](https://www.docker.com/)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23009233.svg?logo=Kali%20Linux&logoColor=white)](https://www.kali.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-%230078D7.svg?logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-coding) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/ahmed-coding) 
+[![Telegram](https://img.shields.io/badge/Telegram-%230081C9.svg?logo=telegram&logoColor=white)](https://t.me/ahmed_hamza123) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2301D94F.svg?logo=whatsapp&logoColor=white)](https://wa.me/967770948670)
 
-# 📊 GitHub Stats:
+---
 
-![](https://github-readme-stats.vercel.app/api?username=ahmed-coding&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-coding&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-coding&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+## 💻 Tech Stack
 
-### 🔝 Top Contributed Repo
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-%23092e20.svg?logo=Django&logoColor=white) 
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-%23092e20.svg?logo=Django&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=PostgreSQL&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?logo=MySQL&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=Docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=Amazon-AWS&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=Ubuntu&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-%23e34c26.svg?logo=Html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%23264de4.svg?logo=Css3&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/CI/CD-%23007ACC.svg?logo=azure-pipelines&logoColor=white)
 
-![](https://github-contributor-stats.vercel.app/api?username=ahmed-coding&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+---
+
+## 📊 GitHub Stats
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-coding&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)  
+![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-coding&theme=blue-green&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-coding&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+## 🚀 Selected Projects
+
+**Real Estate Platform Backend with ML Integration**  
+- Developed Django backend managing 2,000+ property listings  
+- Integrated ML models to improve price prediction accuracy by 20%  
+- Technologies: Python, Django, DRF, ML, PostgreSQL, Docker  
+
+**Fashion APIs (Django Backend)**  
+- Built modular API services supporting product queries, user interactions, dashboards  
+- Focused on clean architecture and maintainable code  
+- Technologies: Python, Django, DRF, PostgreSQL/MySQL  
+
+**Trading Bot with Machine Learning**  
+- ML-driven trading system processing 1,000+ automated trades monthly  
+- Implemented dashboards for bot management and monitoring  
+- Technologies: Python, Django, DRF, Pandas, NumPy, REST APIs  
+
+---
+
+## 🏆 Certifications
+
+**Diploma in English Language – Developer Institute**  
+- Grade: Excellent (92.6%)  
+- Duration: Sep 2020 – Aug 2021
+
+---
+
+## 📝 Contact Me
+
+- 📧 ahmed.128hemzh@gmail.com  
+- 📞 +967783772110  
+- 🌍 Sana’a, Yemen
